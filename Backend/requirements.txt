@@ -1,0 +1,5 @@
+Flask==3.0.3
+Flask-CORS==3.0.10
+searoute==1.4.2
+geopy==2.2.0
+python-dotenv==0.19.0
